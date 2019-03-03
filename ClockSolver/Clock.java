@@ -143,10 +143,6 @@ public class Clock {
 
   /**
    *  The main program starts here
-   *  remember the constraints from the project description
-   *  @see  http://bjohnson.lmu.build/cmsi186web/homework04.html
-   *  be sure to make LOTS of tests!!
-   *  remember you are trying to BREAK your code, not just prove it works!
    */
    public static void main( String args[] ) {
 
